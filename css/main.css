@@ -55,17 +55,6 @@ input[type=number] {
 
 
 
-.ww{display: inline-block; position: fixed; right: 30px;top: 80%;
-}
-@media only screen and (max-width: 600px) {
-  .ww{
-    right:5px;
-  }
-}
-
-
-
-
 
 
 
@@ -276,3 +265,39 @@ background:#5cb85c;
     background: #C5C5F1;
     text-decoration: none;
 }
+
+
+
+
+
+.ww{display: inline-block; position: fixed; right: 30px;top: 80%;
+}
+@media only screen and (max-width: 600px) {
+  .ww{top: 85%;
+    right:16px;
+  }
+    
+    
+    
+    
+    
+    
+
+#msform fieldset {
+    background: white;
+    border: 0 none;
+    border-radius: 0px;
+    padding: 20px 0px;
+    box-sizing: border-box;
+    width: 90%;
+    margin: 0 5%;
+    position: relative;
+}
+    
+    
+    
+    
+}
+
+
+
