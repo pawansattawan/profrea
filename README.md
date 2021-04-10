@@ -8,6 +8,6 @@
 
 ---
 
-design by !  
+developer by !  
 pawan Meena:two_hearts:
 
